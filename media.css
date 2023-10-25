@@ -1,0 +1,228 @@
+@media(max-width:575px){
+    img.h-logo {
+        width: 50%;
+    }
+    a.nav-link {
+        color: white;
+        margin-top: -15px;
+        text-align: 13px;
+    }
+   
+    .icon  {
+        
+       display: none; 
+    }
+    main ul li {
+    
+        text-align: center;
+    }
+    main ul li:hover::before{
+        display: none;
+    }
+    .app {
+        color: white;
+        clip-path:none;
+        background: #f69165;
+        padding: 10px 20px;
+        text-align: center;
+    
+    }
+    .owl-carousel .owl-item img {
+        display: none  !important;
+        
+    }
+    .banner {
+        height: 75vh;
+    }
+    .index{
+        text-align: center;
+    }
+    .index2{
+        text-align: center;
+    }
+    .banner .index h4{
+        margin-top: 50px;
+        font-size: 20px;
+    }
+    .banner .index h3 {
+
+    }
+    .banner .index2 h4 {
+        margin-top: 50px;
+        font-size: 20px;
+    }
+    .banner .index2 h3 {
+        font-size: 35px;
+    }
+    .owl-dots span {
+        transform: translateY( 32px);
+    }
+    .doctor img {
+        width: 70%;
+        margin: 0;
+    }
+    .doctor {
+        height: 190vh;
+        text-align: center;
+    }
+    .den h3 {
+       
+        font-size: 17px;
+    }
+    .white{
+        display: block;
+    }
+    .doctor .wel p {
+        font-size: 13px;
+    }
+    .doctor .wel h2 {
+        font-size: 19px;
+    }
+    .den h3 {
+        font-size: 16px;
+    }
+    .den p {
+        font-size: 14px;
+    }
+    .den {
+        display: block;
+        width: 100%;
+    }
+    .meet h2 {
+       font-size: 20px;
+        margin-top: 50px;
+    }
+    .meet p {
+       font-size: 15px;
+        
+    }
+    .nobody{
+        display: flex;
+        justify-content: center;
+    }
+    .our .body img {
+        width: 100%;
+    }
+    .our {
+        width: 70%;
+    }
+    .team {
+        height: 422vh;
+        
+    }
+    .our .body {
+        min-height: 55vh;
+
+    }
+    .con i {
+        height: 31px;
+        width: 31px;
+        line-height: 30px;
+        font-size: 14px;
+    }
+    .service {
+        min-height: 325vh;
+    }
+    .box {
+        width: 80%;
+        text-align: center;
+        min-height: 40vh;
+    }
+    .box span {
+        font-size: 18px;
+
+    }
+   
+    .box p {
+        font-size: 14px;
+    }
+    .box b {
+        
+        font-size: 15px;
+    }
+    .plan {
+        height: 430vh;
+        background: #f9f9f9;
+       
+    }
+    .any2 {
+        width: 75%;
+        margin-top: 50px;
+        margin-left: 15%;
+        height: 110vh;
+    }
+    .any2 .fe h5 {
+        font-size: 22px;
+       
+    }
+    .fe p {
+        font-size: 14px;
+    }
+    .any2 .per span {
+        font-size: 40px;
+    }
+    .any2 .per p {
+        font-size: 15px;
+    }
+    .lorem p {
+        font-size: 14px;
+        padding: 0;
+    }
+    .lorem a {
+        padding: 8px 25px;
+        font-size: 14px;
+
+    }
+    .brand-carousel .owl-nav .owl-next{
+        display: none;
+    }
+    .brand-carousel .owl-nav .owl-prev{
+        display: none;
+    }
+    input {
+        width: 56%;
+        height: 34px;
+        
+    }
+    form .up {
+        padding: 8px 12px;
+
+        font-size: 14px;
+      
+    }
+    .flo {
+        margin-bottom: 30px;
+    }
+    .us i {
+        height: 30px;
+        width: 30px;
+        line-height: 30px;
+        font-size: 14px;
+    }
+    .us h6 {
+
+       font-size: 15px;
+        margin-top: 35px;
+    }
+    .on2 h2 {
+        padding: 30px 0 15px;
+        color: white;
+    }
+    .on2 p {
+        margin-top: 10px;
+    }
+    .last {
+        height: 70px;
+    }
+
+
+
+
+
+
+
+
+
+
+
+}
